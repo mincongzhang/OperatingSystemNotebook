@@ -4,9 +4,7 @@
 
 ### 1.Message passing IPC
 
-pros: OS manages
+![](/assets/message_passing_IPC.png)pros: OS manages
 
 cons: overheads \(copy data to channel and pass to database\)
-
-![](/assets/message_passing_IPC.png)
 
