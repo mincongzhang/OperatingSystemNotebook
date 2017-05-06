@@ -14,5 +14,5 @@ cons: overheads \(copy data to channel and pass to database\)
 
 ![](/assets/shared_memory_IPC.png)
 
-
+pros: OS is out of the way
 
