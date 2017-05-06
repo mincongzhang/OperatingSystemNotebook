@@ -7,4 +7,5 @@
   * [Process Interact](process-interact.md)
 * [Inter Process Communication](inter-process-communication.md)
   * [Message Based IPC](inter-process-communication/message-based-ipc.md)
+  * [Forms of Message Passing](inter-process-communication/forms-of-message-passing.md)
 
