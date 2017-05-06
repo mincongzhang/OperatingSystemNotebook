@@ -6,7 +6,7 @@ IPC is like working together
 Data in shared memory
 
 #### Processes exchange messages
-message passing via sockets
+message passing via sockets, pipes, message queues
 
 #### Require synchronization
 mutexes, waiting...
