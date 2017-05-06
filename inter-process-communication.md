@@ -6,7 +6,7 @@
 
 pros: OS manages
 
-cons: overheads
+cons: overheads \(copy data to channel and pass to database\)
 
 ![](/assets/message_passing_IPC.png)
 
