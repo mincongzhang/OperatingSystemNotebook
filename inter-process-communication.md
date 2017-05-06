@@ -16,3 +16,5 @@ cons: overheads \(copy data to channel and pass to database\)
 
 pros: OS is out of the way
 
+cons: cannot use OS APIs, reimplement the code
+
