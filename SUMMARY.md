@@ -10,4 +10,5 @@
   * [Forms of Message Passing](inter-process-communication/forms-of-message-passing.md)
   * [Shared Memory IPC](inter-process-communication/shared-memory-ipc.md)
   * [Messages VS Shared Memory](inter-process-communication/messages-vs-shared-memory.md)
+  * [SysV Shared Memory](inter-process-communication/sysv-shared-memory.md)
 
