@@ -11,4 +11,6 @@
   * [Shared Memory IPC](inter-process-communication/shared-memory-ipc.md)
   * [Messages VS Shared Memory](inter-process-communication/messages-vs-shared-memory.md)
   * [SysV Shared Memory](inter-process-communication/sysv-shared-memory.md)
+  * [SysV Shared Memory API](inter-process-communication/sysv-shared-memory-api.md)
+  * [POSIX Shared Memory API](inter-process-communication/posix-shared-memory-api.md)
 
