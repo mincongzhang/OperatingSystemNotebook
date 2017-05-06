@@ -13,4 +13,5 @@
   * [SysV Shared Memory](inter-process-communication/sysv-shared-memory.md)
   * [SysV Shared Memory API](inter-process-communication/sysv-shared-memory-api.md)
   * [POSIX Shared Memory API](inter-process-communication/posix-shared-memory-api.md)
+  * [SysV VS POSIX](inter-process-communication/sysv-vs-posix.md)
 
