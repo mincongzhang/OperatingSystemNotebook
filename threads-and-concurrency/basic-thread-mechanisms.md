@@ -6,5 +6,7 @@
 
 ![](/assets/threads_and_concurrency.png)
 
+#### Concurrency Control & Coordination
 
+![](/assets/concurrency_control_and_coordination.png)
 
