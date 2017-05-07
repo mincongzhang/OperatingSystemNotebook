@@ -15,4 +15,5 @@
   * [POSIX Shared Memory API](inter-process-communication/posix-shared-memory-api.md)
   * [SysV VS POSIX](inter-process-communication/sysv-vs-posix.md)
   * [Shared Memory And Synchronization](inter-process-communication/shared-memory-and-synchronization.md)
+  * [Other IPC Sync](inter-process-communication/other-ipc-sync.md)
 
