@@ -23,4 +23,5 @@
   * [Benefits of Multithreading: CPU](threads-and-concurrency/benefits-of-multithreading-cpu.md)
   * [Basic Thread Mechanisms](threads-and-concurrency/basic-thread-mechanisms.md)
   * [Mutex](threads-and-concurrency/mutex.md)
+  * [Producer and Consumer, and Condition Variables](threads-and-concurrency/producer-and-consumer.md)
 
