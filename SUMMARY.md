@@ -17,4 +17,6 @@
   * [Shared Memory And Synchronization](inter-process-communication/shared-memory-and-synchronization.md)
   * [Other IPC Sync](inter-process-communication/other-ipc-sync.md)
   * [IPC cmd Line Tools](inter-process-communication/ipc-cmd-line-tools.md)
+* [Threads and Concurrency](threads-and-concurrency.md)
+  * [Benefits of Multithreading](threads-and-concurrency/benefits-of-multithreading.md)
 
