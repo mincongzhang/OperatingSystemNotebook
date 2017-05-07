@@ -18,5 +18,6 @@
   * [Other IPC Sync](inter-process-communication/other-ipc-sync.md)
   * [IPC cmd Line Tools](inter-process-communication/ipc-cmd-line-tools.md)
 * [Threads and Concurrency](threads-and-concurrency.md)
+  * [Process VS Thread](threads-and-concurrency/process-vs-thread.md)
   * [Benefits of Multithreading](threads-and-concurrency/benefits-of-multithreading.md)
 
