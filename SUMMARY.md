@@ -21,4 +21,5 @@
   * [Process VS Thread](threads-and-concurrency/process-vs-thread.md)
   * [Benefits of Multithreading](threads-and-concurrency/benefits-of-multithreading.md)
   * [Benefits of Multithreading: CPU](threads-and-concurrency/benefits-of-multithreading-cpu.md)
+  * [Basic Thread Mechanisms](threads-and-concurrency/basic-thread-mechanisms.md)
 
