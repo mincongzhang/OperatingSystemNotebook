@@ -23,3 +23,4 @@ Implemented in operating system threading lib:
 (5)mutex re-acquired and exit wait operation
 
 NOTE for broadcast signals (notify_all):
+notify_one:remove from queue and re-acquire mutex
