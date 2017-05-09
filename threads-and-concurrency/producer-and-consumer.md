@@ -15,4 +15,6 @@ NOTE for consumer:
 ![](/assets/condition_variables_api.png)
 
 ### Details of Wait()
-
+Implemented in operating system threading lib
+(1)mutex released
+(2)put to waiting queue of wait threads 
