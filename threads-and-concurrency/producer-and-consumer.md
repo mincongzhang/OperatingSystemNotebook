@@ -14,19 +14,25 @@ NOTE for consumer:
 
 ![](/assets/condition_variables_api.png)
 
-### Details of Wait()
-Implemented in operating system threading lib:
-(1)mutex released
-(2)put to waiting queue of wait threads 
-(3)when notification received
-(4)the thread will be removed from the queue
-(5)mutex re-acquired and exit wait operation
+### Details of Wait\(\)
 
-NOTE for broadcast signals (notify_all):
-notify_one: remove from queue and re-acquire mutex
-notify_all: 
-(1)remove all wait threads from queue
-(2)wake up all threads at the same time
-(3)but re-acquire the mutex one thread at a time and exit
+Implemented in operating system threading lib:  
+\(1\)mutex released  
+\(2\)put to waiting queue of wait threads  
+\(3\)when notification received  
+\(4\)the thread will be removed from the queue  
+\(5\)mutex re-acquired and exit wait operation
+
+NOTE for broadcast signals \(notify\_all\):  
+notify\_one: remove from queue and re-acquire mutex  
+notify\_all:  
+\(1\)remove all wait threads from queue  
+\(2\)wake up all threads at the same time  
+\(3\)but re-acquire the mutex one thread at a time and exit
 
 So if you just want to wake up one condition, don't wake up all.
+
+### Why use while\(\)?
+
+![](/assets/condition_variable_quiz.png)
+
