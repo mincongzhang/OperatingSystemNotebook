@@ -21,3 +21,5 @@ Implemented in operating system threading lib:
 (3)notification received
 (4)the thread will be removed from the queue
 (5)mutex re-acquired and exit wait operation
+
+NOTE for broadcast signals (notify_all):
