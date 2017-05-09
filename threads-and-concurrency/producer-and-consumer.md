@@ -18,7 +18,7 @@ NOTE for consumer:
 Implemented in operating system threading lib:
 (1)mutex released
 (2)put to waiting queue of wait threads 
-(3)notification received
+(3)when notification received
 (4)the thread will be removed from the queue
 (5)mutex re-acquired and exit wait operation
 
