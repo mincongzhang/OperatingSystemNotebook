@@ -14,3 +14,5 @@ NOTE for consumer:
 
 ![](/assets/condition_variables_api.png)
 
+### Details of Wait()
+
