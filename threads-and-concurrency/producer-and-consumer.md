@@ -9,6 +9,7 @@
 NOTE for consumer:
 (1)Lock(m):The mutex is locked at the beginning
 (2)Wait(m):The mutex will be released, and re-acquired afterwards
+(So that the producer can produce)
 (3)Lock(m) ending:The mutex will be released again
 
 
