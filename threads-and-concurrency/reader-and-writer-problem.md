@@ -7,5 +7,11 @@
 
 ![](/assets/readers_and_writer_problem.png)
 
+### Readers and Writer Example 
+
+
+
+![](/assets/readers_and_writer_example.png)
+
 
 
