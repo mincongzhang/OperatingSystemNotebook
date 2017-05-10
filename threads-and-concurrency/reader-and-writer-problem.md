@@ -7,17 +7,22 @@
 
 ![](/assets/readers_and_writer_problem.png)
 
-### Readers and Writer Example 
+### Readers and Writer Example
 
 ![](/assets/readers_and_writer_example.png)
 
 ```
+//In writer:
+
 while(resouce_counter!=0){
     Wait(counter_mutex,writer_phase);
 }
 
-(1)the waiting process is not atomic. 
-(2)While it's waiting, the mutex will be released.
-(3)And when it gets writer_phase signal, meanwhile, there may be another reader locks the mutex and increment the counter.
-(4)So we have to check the counter again.
+//(1)the waiting process is not atomic. 
+//(2)While it's waiting, the mutex will be released.
+//(3)And when it gets writer_phase signal, meanwhile, there may be another reader locks the mutex and increment the counter.
+//(4)So we have to check the counter again.
 ```
+
+
+
