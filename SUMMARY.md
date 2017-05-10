@@ -24,4 +24,5 @@
   * [Basic Thread Mechanisms](threads-and-concurrency/basic-thread-mechanisms.md)
   * [Mutex](threads-and-concurrency/mutex.md)
   * [Producer and Consumer, and Condition Variables](threads-and-concurrency/producer-and-consumer.md)
+  * [Readers and Writer Problem](threads-and-concurrency/reader-and-writer-problem.md)
 
