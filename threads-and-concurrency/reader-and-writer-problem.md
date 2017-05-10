@@ -22,6 +22,9 @@ while(resouce_counter!=0){
 //(2)While it's waiting, the mutex will be released.
 //(3)And when it gets writer_phase signal, meanwhile, there may be another reader locks the mutex and increment the counter.
 //(4)So we have to check the counter again.
+
+Broadcast(read_phase);
+Signal(write_phase);
 ```
 
 
