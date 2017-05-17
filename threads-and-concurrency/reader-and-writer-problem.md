@@ -27,5 +27,6 @@ Broadcast(read_phase);
 Signal(write_phase);
 ```
 
+### Critical S
 
 
