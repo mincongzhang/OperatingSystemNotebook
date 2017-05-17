@@ -7,7 +7,7 @@
 
 ![](/assets/readers_and_writer_problem.png)
 
-### Readers and Writer Example
+### Example
 
 ![](/assets/readers_and_writer_example.png)
 
