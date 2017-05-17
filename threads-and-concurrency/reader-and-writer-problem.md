@@ -27,6 +27,7 @@ Broadcast(read_phase);
 Signal(write_phase);
 ```
 
-### Critical S
+### Critical Section Structure
 
+![](/assets/reader_writer_structure.png)
 
