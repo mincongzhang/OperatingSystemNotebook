@@ -12,7 +12,7 @@
 ![](/assets/readers_and_writer_example.png)
 
 ```
-//In writer:
+//Why we use "while" rather than "if" in writer:
 
 while(resouce_counter!=0){
     Wait(counter_mutex,writer_phase);
