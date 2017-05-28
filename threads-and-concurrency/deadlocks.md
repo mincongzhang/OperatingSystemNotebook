@@ -16,5 +16,6 @@ How to avoid:
 
 A cycle in the wait graph is __necessary and sufficient__ for a deadlock to occur (edges from thread waiting on a recources to thread owning a resource)
 
-How to prevent?
+What to do about deadlock?
+
 
