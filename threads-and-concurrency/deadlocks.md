@@ -10,7 +10,7 @@ Two threads are waiting each other in a circle![](/assets/deadlocks1.png)
 
 How to avoid:  
 \(1\)Use one MEGA mutex  
-\(2\)Maintain lock order \(first A then B\)
+\(2\)Maintain lock order \(first A then B\)  
 
 ### Summary
 
@@ -18,5 +18,5 @@ A cycle in the wait graph is __necessary and sufficient__ for a deadlock to occu
 
 #### What to do about deadlock?
 
-Deadlock prevention - Expensive
-
+(1)Deadlock prevention - Expensive  
+(2)Deadlock detection & recovery - Rollback
