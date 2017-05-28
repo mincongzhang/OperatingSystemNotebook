@@ -8,5 +8,5 @@ Two threads are waiting each other in a circle![](/assets/deadlocks1.png)
 
 How to avoid:  
 \(1\)Use one MEGA mutex  
-\(2\)Maintain lock order
+\(2\)Maintain lock order \(first A then B\)
 
