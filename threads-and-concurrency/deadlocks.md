@@ -19,4 +19,6 @@ A cycle in the wait graph is __necessary and sufficient__ for a deadlock to occu
 #### What to do about deadlock?
 
 (1)Deadlock prevention - Expensive  
-(2)Deadlock detection & recovery - Rollback(rollback execution, maybe impossible to perform)
+(2)Deadlock detection & recovery - Rollback  
+(rollback execution, maybe impossible to perform)  
+(3)Do nothing...
