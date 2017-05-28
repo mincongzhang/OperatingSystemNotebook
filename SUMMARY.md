@@ -26,4 +26,5 @@
   * [Producer and Consumer, and Condition Variables](threads-and-concurrency/producer-and-consumer.md)
   * [Readers and Writer Problem](threads-and-concurrency/reader-and-writer-problem.md)
   * [Spurious wakeup](threads-and-concurrency/spurious-wakeup.md)
+  * [Deadlocks](threads-and-concurrency/deadlocks.md)
 
