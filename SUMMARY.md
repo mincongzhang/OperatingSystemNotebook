@@ -27,4 +27,5 @@
   * [Readers and Writer Problem](threads-and-concurrency/reader-and-writer-problem.md)
   * [Spurious wakeup](threads-and-concurrency/spurious-wakeup.md)
   * [Deadlocks](threads-and-concurrency/deadlocks.md)
+  * [Kernel vs User Level Threads](threads-and-concurrency/kernel-vs-user-level-threads.md)
 
