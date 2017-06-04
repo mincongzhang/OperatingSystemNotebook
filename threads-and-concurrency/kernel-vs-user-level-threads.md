@@ -10,3 +10,7 @@
 
 ![](/assets/many_to_one_model.png)
 
+### Many to Many Model
+
+![](/assets/many_to_many_model.png)
+
