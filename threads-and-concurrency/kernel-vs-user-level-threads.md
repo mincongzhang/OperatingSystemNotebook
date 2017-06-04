@@ -4,3 +4,7 @@
 
 ### One to One Model
 
+![](/assets/one_to_one_model.png)
+
+
+
