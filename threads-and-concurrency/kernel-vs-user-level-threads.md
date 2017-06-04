@@ -8,6 +8,5 @@
 
 ### Many to One Model
 
-
-
+![](/assets/many_to_one_model.png)
 
