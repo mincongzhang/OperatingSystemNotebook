@@ -29,4 +29,5 @@
   * [Deadlocks](threads-and-concurrency/deadlocks.md)
   * [Kernel vs User Level Threads](threads-and-concurrency/kernel-vs-user-level-threads.md)
   * [Multithreading Patterns](threads-and-concurrency/multithreading-patterns.md)
+    * [Boss-Workers Pattern](threads-and-concurrency/multithreading-patterns/boss-workers-pattern.md)
 
