@@ -14,3 +14,7 @@
 
 ![](/assets/many_to_many_model.png)
 
+### Scope of Multithreading
+
+![](/assets/scope_of_multithreading.png)
+
