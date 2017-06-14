@@ -1,6 +1,21 @@
 # Summary
 
 * [Introduction](README.md)
+* [Threads and Concurrency](threads-and-concurrency.md)
+  * [Process VS Thread](threads-and-concurrency/process-vs-thread.md)
+  * [Benefits of Multithreading](threads-and-concurrency/benefits-of-multithreading.md)
+  * [Benefits of Multithreading: CPU](threads-and-concurrency/benefits-of-multithreading-cpu.md)
+  * [Basic Thread Mechanisms](threads-and-concurrency/basic-thread-mechanisms.md)
+  * [Mutex](threads-and-concurrency/mutex.md)
+  * [Producer and Consumer, and Condition Variables](threads-and-concurrency/producer-and-consumer.md)
+  * [Readers and Writer Problem](threads-and-concurrency/reader-and-writer-problem.md)
+  * [Spurious wakeup](threads-and-concurrency/spurious-wakeup.md)
+  * [Deadlocks](threads-and-concurrency/deadlocks.md)
+  * [Kernel vs User Level Threads](threads-and-concurrency/kernel-vs-user-level-threads.md)
+  * [Multithreading Patterns](threads-and-concurrency/multithreading-patterns.md)
+    * [Boss-Workers Pattern](threads-and-concurrency/multithreading-patterns/boss-workers-pattern.md)
+    * Pipeline Pattern
+    * Layered Pattern
 * [Process And Process Manager](process-and-process-manager.md)
   * [Process](process.md)
   * [Process Address Space](process-address-space.md)
@@ -17,19 +32,4 @@
   * [Shared Memory And Synchronization](inter-process-communication/shared-memory-and-synchronization.md)
   * [Other IPC Sync](inter-process-communication/other-ipc-sync.md)
   * [IPC cmd Line Tools](inter-process-communication/ipc-cmd-line-tools.md)
-* [Threads and Concurrency](threads-and-concurrency.md)
-  * [Process VS Thread](threads-and-concurrency/process-vs-thread.md)
-  * [Benefits of Multithreading](threads-and-concurrency/benefits-of-multithreading.md)
-  * [Benefits of Multithreading: CPU](threads-and-concurrency/benefits-of-multithreading-cpu.md)
-  * [Basic Thread Mechanisms](threads-and-concurrency/basic-thread-mechanisms.md)
-  * [Mutex](threads-and-concurrency/mutex.md)
-  * [Producer and Consumer, and Condition Variables](threads-and-concurrency/producer-and-consumer.md)
-  * [Readers and Writer Problem](threads-and-concurrency/reader-and-writer-problem.md)
-  * [Spurious wakeup](threads-and-concurrency/spurious-wakeup.md)
-  * [Deadlocks](threads-and-concurrency/deadlocks.md)
-  * [Kernel vs User Level Threads](threads-and-concurrency/kernel-vs-user-level-threads.md)
-  * [Multithreading Patterns](threads-and-concurrency/multithreading-patterns.md)
-    * [Boss-Workers Pattern](threads-and-concurrency/multithreading-patterns/boss-workers-pattern.md)
-    * Pipeline Pattern
-    * Layered Pattern
 
