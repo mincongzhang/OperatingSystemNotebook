@@ -2,5 +2,5 @@
 
 ![](/assets/benefits_of_multithreading.png)
 
-AS: address space
+AS: address space  
 EC: execution context
