@@ -10,4 +10,4 @@ EC: execution context
 3.Why not multi-processing? 
 multi-processing doesn't not share address space, 3 extra memory
 multi-threading more memory efficient
-IPC more costly
+IPC communication and synchronization more costly
