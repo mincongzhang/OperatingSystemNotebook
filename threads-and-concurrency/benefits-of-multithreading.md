@@ -7,3 +7,4 @@ AS: address space
 EC: execution context
 
 1.Same code, diff tasks
+2.
