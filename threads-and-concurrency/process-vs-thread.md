@@ -48,4 +48,4 @@ __3.PCB (process control block)__
 
 -Shared part among threads
 
--Pre-thread exec context
+-Also has (seperated and different) pre-thread exec context
